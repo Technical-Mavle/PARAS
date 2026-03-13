@@ -269,7 +269,7 @@ git push origin feature/amazing-feature
 
 ## 📄 License
 
-MIT License - See [LICENSE](LICENSE) for details
+This is a copyrighted material and should not be used by anyone else without the permission of the owner - this is not a open source work.
 
 ## 🙏 Acknowledgments
 
